@@ -1,0 +1,8 @@
+com\qianfeng\ssm\utils\JsonUtils.class
+com\qianfeng\ssm\controller\AreaController.class
+com\qianfeng\ssm\mapper\AreaMapper.class
+com\qianfeng\ssm\pojo\Area.class
+com\qianfeng\ssm\utils\JedisClient.class
+com\qianfeng\ssm\utils\JedisClientPool.class
+com\qianfeng\ssm\service\Impl\AreaServiceImpl.class
+com\qianfeng\ssm\service\AreaService.class
